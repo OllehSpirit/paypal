@@ -23,7 +23,7 @@ export default function PayPalCheckoutButton({
 
   if (paidFor) {
     console.log("done");
-    alert("thank");
+    // alert("thank");
   }
   if (err) {
     console.log(err);
